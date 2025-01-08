@@ -1,7 +1,5 @@
 # MACHINE-LEARNING-PROJECT1
-Here's a simpler, more concise version of your README for GitHub:
 
----
 
 # README
 
