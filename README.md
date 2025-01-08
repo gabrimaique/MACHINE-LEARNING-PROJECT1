@@ -61,11 +61,6 @@ Analyze audio recordings of interviews or debates to detect media bias and impar
 - Save notebook outputs before submission.
 - Test with diverse audio files for better results.
 
----
 
-### Contact
-For questions or issues, contact the repository owner. 
 
----
 
-This version is streamlined for clarity and readability while maintaining the key information. Let me know if you'd like to tweak it further!
