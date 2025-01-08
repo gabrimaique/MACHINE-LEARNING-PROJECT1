@@ -1,0 +1,11 @@
+numpy==1.23.5
+pandas==1.5.3
+pyannote.metrics==3.2
+jiwer==2.6.0
+transformers==4.34.0
+torch==2.0.1
+torchaudio==2.0.1
+scipy==1.10.1
+librosa==0.10.0.post2
+matplotlib==3.7.1
+jupyter==1.0.0
