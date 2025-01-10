@@ -1,0 +1,34 @@
+
+
+### Refined Citations
+
+1. **SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing**
+   - **Authors**: Junyi Ao, Rui Wang, Long Zhou, Chengyi Wang, Shuo Ren, Yu Wu, Shujie Liu, Tom Ko, Qing Li, Yu Zhang, Zhihua Wei, Yao Qian, Jinyu Li, Furu Wei.
+   - **Source**: *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, 2022.
+   - **URL**: [https://arxiv.org/abs/2110.07205](https://arxiv.org/abs/2110.07205)
+
+2. **LaMini-Flan-T5-783M**
+   - **Authors**: Minghao Wu, Abdul Waheed, Chiyu Zhang, Muhammad Abdul-Mageed, Alham Fikri Aji.
+   - **Source**: *arXiv preprint arXiv:2304.14402*, 2023.
+   - **URL**: [https://arxiv.org/abs/2304.14402](https://arxiv.org/abs/2304.14402)
+
+3. **HuBERT**
+   - **Authors**: Alexei Baevski, Wei-Ning Hsu, Jiatao Gu, Vincent Vanhoucke.
+   - **Source**: *arXiv preprint arXiv:2106.07447*, 2021.
+   - **URL**: [https://arxiv.org/abs/2106.07447](https://arxiv.org/abs/2106.07447)
+
+4. **Transformers by Hugging Face**
+   - **Authors**: Thomas Wolf, Lysandre Debut, Clément Delangue, Tim Rocktäschel, Sebastian Riedel, Davide Castro, Arthur Szlam, Yoshua Bengio, and others.
+   - **Source**: GitHub Repository, Hugging Face.
+   - **URL**: [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
+
+5. **PyDub**
+   - **Authors**: James Robert, David Baumgartner, and others.
+   - **Source**: GitHub Repository.
+   - **URL**: [https://github.com/jiaaro/pydub](https://github.com/jiaaro/pydub)
+
+6. **PyTorch**
+   - **Authors**: Adam Paszke, Sam Gross, Francisco Massa, and others.
+   - **Source**: GitHub Repository, PyTorch.
+   - **URL**: [https://pytorch.org/](https://pytorch.org/)
+
